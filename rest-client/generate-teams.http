@@ -1,0 +1,5 @@
+### POST
+POST http://{{base-url}}/generate-teams/
+Content-Type: application/json
+
+["csabesz","berti","dezsovarga","Dragos","Ferenc","horvathbotond","horvathkuki","kuplung","Istuu","pistike","szlo_szlo","szury"]
